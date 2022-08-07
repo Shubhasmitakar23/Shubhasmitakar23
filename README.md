@@ -19,4 +19,4 @@
 
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/shubhasmita-kar-300965228/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Struggling on <a href="https://leetcode.com/sima_4121/">LeetCode</a> 😍
-- Sharing updates on <a href="https://www.linkedin.com/in/tanyarajhans/">LinkedIn</a> 😇
+- Sharing updates on <a href="https://www.linkedin.com/in/shubhasmita-kar-300965228/">LinkedIn</a> 😇
